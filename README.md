@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PaulProf - My name is Paul D and this is my professional account, thus PaulProf 😃
+- 👋 Hi, I’m @PaulProf - My name is Paul D and this is my professional account, thus PaulProf 😃  - Working as a lecturer at Maastricht University.
 - 👀 I’m interested in Operations Research, AI, Data Science, Machine Learning, etc.
 - 🌱 I’m currently learning how to improve my teaching skills.
 - 💞️ I’m looking to collaborate on anything, let me know. 
